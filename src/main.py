@@ -23,6 +23,7 @@ def main():
 
     tiempo_fin = time.time()
     print(f"⏱️ Tiempo de ejecución del script: {tiempo_fin - tiempo_inicio:.4f} segundos.")
+    print("Validación de pipeline CI ejecutada con éxito. 🚀")
 
 if __name__ == "__main__":
     main()
