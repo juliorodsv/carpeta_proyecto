@@ -19,6 +19,7 @@ def main():
         "⚠️ Atención: Estás usando el Python global del sistema, no el venv."
     )
 
+print("Versión del script: 1.1.0 (Entorno de Desarrollo) 🧪")
 
 if __name__ == "__main__":
   main()
