@@ -20,6 +20,6 @@ def main():
     )
 
 print("Versión del script: 1.1.0 (Entorno de Desarrollo) 🧪")
-
+print("Version del script: 1.2.0 (Test)")
 if __name__ == "__main__":
   main()
