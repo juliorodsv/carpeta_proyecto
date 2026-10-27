@@ -24,7 +24,7 @@ def main():
     tiempo_fin = time.time()
     print(f"⏱️ Tiempo de ejecución del script: {tiempo_fin - tiempo_inicio:.4f} segundos.")
     print("Validación de pipeline CI ejecutada con éxito. 🚀")
-    print("Línea con error para probar la intercepción de GitHub Actions"
+    print("Línea con error para probar la intercepción de GitHub Actions")
 
 if __name__ == "__main__":
     main()
