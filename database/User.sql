@@ -1,0 +1,11 @@
+CREATE TABLE [dbo].[Usuarios2]
+(
+    [UsuarioId] INT IDENTITY(1,1) NOT NULL,
+    [Nombre] NVARCHAR(100) NOT NULL,
+    [Email] NVARCHAR(255) NOT NULL,
+    [Telefono] VARCHAR(20) NULL,
+    [Telefono2]VARCHAR(59) NULL,  
+   [Activo] BIT DEFAULT (1) NOT NULL,
+    [FechaCreacion] DATETIME2(7) DEFAULT (SYSDATETIME()) NOT NULL,
+    CONSTRAINT [PK_Usuarios2] PRIMARY KEY CLUSTERED ([UsuarioId] ASC)
+);

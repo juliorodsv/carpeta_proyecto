@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/juliorodriguez.pg/proyecto/database/MiBaseDatos.sqlproj": {}
+  },
+  "projects": {
+    "/home/juliorodriguez.pg/proyecto/database/MiBaseDatos.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/juliorodriguez.pg/proyecto/database/MiBaseDatos.sqlproj",
+        "projectName": "MiBaseDatos",
+        "projectPath": "/home/juliorodriguez.pg/proyecto/database/MiBaseDatos.sqlproj",
+        "packagesPath": "/home/juliorodriguez.pg/.nuget/packages/",
+        "outputPath": "/home/juliorodriguez.pg/proyecto/database/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/juliorodriguez.pg/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

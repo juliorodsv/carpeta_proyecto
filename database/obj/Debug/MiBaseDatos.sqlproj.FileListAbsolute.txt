@@ -1,0 +1,11 @@
+/home/juliorodriguez.pg/proyecto/database/bin/Debug/MiBaseDatos.dacpac
+/home/juliorodriguez.pg/proyecto/database/bin/Debug/MiBaseDatos.dll
+/home/juliorodriguez.pg/proyecto/database/bin/Debug/MiBaseDatos.pdb
+/home/juliorodriguez.pg/proyecto/database/obj/Debug/MiBaseDatos.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliorodriguez.pg/proyecto/database/obj/Debug/MiBaseDatos.sourcelink.json
+/home/juliorodriguez.pg/proyecto/database/obj/Debug/Model.xml
+/home/juliorodriguez.pg/proyecto/database/obj/Debug/refactor.xml
+/home/juliorodriguez.pg/proyecto/database/obj/Debug/postdeploy.sql
+/home/juliorodriguez.pg/proyecto/database/obj/Debug/predeploy.sql
+/home/juliorodriguez.pg/proyecto/database/obj/Debug/MiBaseDatos.dll
+/home/juliorodriguez.pg/proyecto/database/obj/Debug/MiBaseDatos.pdb
